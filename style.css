@@ -1,0 +1,45 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 12px;
+    -fx-background-color: #f5f5f5; 
+}
+
+/* labels */
+.label {
+    -fx-text-fill: #333333; 
+}
+
+/* TextFields */
+.text-field {
+    -fx-border-color: #555555;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+    -fx-text-fill: #000000; 
+    -fx-background-color: #ffffff; 
+}
+
+/* Μήνυμα σφάλματος */
+.label.message {
+    -fx-text-fill: red;
+    -fx-font-weight: bolder;
+}
+
+/* Buttons */
+.button {
+    -fx-background-color: #4CAF50; 
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+/* TableView */
+.table-view {
+    -fx-background-color: #ffffff;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #e0e0e0; 
+}
+
+.table-view .cell {
+    -fx-text-fill: black; 
+}
