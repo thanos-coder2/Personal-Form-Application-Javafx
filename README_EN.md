@@ -1,4 +1,4 @@
-Semester Assignment - JavaFX – Personal Form Application
+Semester Assignment - JavaFX - Personal Form Application
 
 Technical description
 
