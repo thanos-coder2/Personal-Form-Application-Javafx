@@ -1,7 +1,6 @@
+Εργασία Εξαμήνου - JavaFX - Εφαρμογή Προσωπικής Φόρμας (Personal Form Application)
 ![φωτογραφια συμπληρωση φορμας και αποθηκευση στο tableview](images/photo1.png)
 ![φωτογραφια αποθηκευσης στο data.csv](images/photo2.png)
-
-Εργασία Εξαμήνου - JavaFX - Εφαρμογή Προσωπικής Φόρμας (Personal Form Application)
 
 Τεχνική περιγραφή
 
