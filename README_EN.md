@@ -1,5 +1,6 @@
 Semester Assignment - JavaFX - Personal Form Application
-
+![](images/photo1.png)
+![](images/photo2.png)
 Technical description
 
 For the creation of the interface, a GridPane was used, in which Label, TextField, ComboBox, TextArea, and Button components were added.
